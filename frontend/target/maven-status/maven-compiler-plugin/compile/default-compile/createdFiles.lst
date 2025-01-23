@@ -1,0 +1,15 @@
+isme\pfaextract\Services\OcrService.class
+isme\pfaextract\config\SecurityConfig.class
+isme\pfaextract\Services\OcrService$1.class
+isme\pfaextract\config\CorsConfig.class
+isme\pfaextract\utils\MoroccanDataConstants.class
+isme\pfaextract\Models\Document$ProcessingStatus.class
+isme\pfaextract\exception\GlobalExceptionHandler.class
+isme\pfaextract\Services\DocumentService.class
+isme\pfaextract\Controllers\DocumentController.class
+isme\pfaextract\config\WebConfig.class
+isme\pfaextract\Models\MoroccanIdData.class
+isme\pfaextract\PfaExtractApplication.class
+isme\pfaextract\Repos\DocumentRepository.class
+isme\pfaextract\Models\Document.class
+isme\pfaextract\Models\IdCardField.class

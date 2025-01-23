@@ -1,0 +1,5 @@
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs camera access to scan documents</string>
+    ...
+</dict> 
